@@ -24,4 +24,4 @@
 <br/>
 <img height="100%" width="100%" src="/images/comndiagram.png"/>
 
-## The videos can be viewed on the [drive here](https://drive.google.com/file/d/11a8Po3xTFV_KwnhSIkg1WkTmubR3FG7v/view?usp=sharing)
+## The videos can be viewed on the [drive here](https://drive.google.com/drive/folders/1OVQz1grOgFwZo4xT4Y6e65WjTB0v-_Nc?usp=sharing)
